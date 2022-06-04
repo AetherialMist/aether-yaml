@@ -1,0 +1,6 @@
+stringKey: value-0
+nestedData:
+  intKey: 1234
+  ## SnakeYaml cannot handle comma separated lists. Must use array syntax
+  ## This invalid format is used for testing
+  stringListKey: tree, pine, cone

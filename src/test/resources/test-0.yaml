@@ -1,0 +1,10 @@
+stringKey: "value-0
+pine tree"
+nestedData:
+  intKey: 1234
+  ## SnakeYaml cannot handle comma separated lists. Must use array syntax
+  stringListKey: [tree, pine, cone]
+#  stringListKey:
+#    - tree
+#    - pine
+#    - cone
